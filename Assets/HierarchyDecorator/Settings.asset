@@ -1030,6 +1030,39 @@ MonoBehaviour:
         isBuiltIn: 1
         script: {fileID: 0}
         hash: -1
+      - displayName: DelayedActionManager
+        name: UnityEngine.ResourceManagement.Util.DelayedActionManager, Unity.ResourceManager,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        content:
+          m_Text: DelayedActionManager
+          m_Image: {fileID: 0}
+          m_Tooltip: DelayedActionManager
+        shown: 0
+        isBuiltIn: 1
+        script: {fileID: 0}
+        hash: -1
+      - displayName: DiagnosticEventCollector
+        name: UnityEngine.ResourceManagement.Diagnostics.DiagnosticEventCollector,
+          Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        content:
+          m_Text: DiagnosticEventCollector
+          m_Image: {fileID: 0}
+          m_Tooltip: DiagnosticEventCollector
+        shown: 0
+        isBuiltIn: 1
+        script: {fileID: 0}
+        hash: -1
+      - displayName: DiagnosticEventCollectorSingleton
+        name: UnityEngine.ResourceManagement.Diagnostics.DiagnosticEventCollectorSingleton,
+          Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        content:
+          m_Text: DiagnosticEventCollectorSingleton
+          m_Image: {fileID: 0}
+          m_Tooltip: DiagnosticEventCollectorSingleton
+        shown: 0
+        isBuiltIn: 1
+        script: {fileID: 0}
+        hash: -1
       - displayName: DropdownItem
         name: UnityEngine.UI.Dropdown+DropdownItem, UnityEngine.UI, Version=1.0.0.0,
           Culture=neutral, PublicKeyToken=null
@@ -1180,6 +1213,17 @@ MonoBehaviour:
           m_Text: LODGroup
           m_Image: {fileID: 1135309718888394834, guid: 0000000000000000d000000000000000, type: 0}
           m_Tooltip: LODGroup
+        shown: 0
+        isBuiltIn: 1
+        script: {fileID: 0}
+        hash: -1
+      - displayName: MonoBehaviourCallbackHooks
+        name: MonoBehaviourCallbackHooks, Unity.ResourceManager, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        content:
+          m_Text: MonoBehaviourCallbackHooks
+          m_Image: {fileID: 0}
+          m_Tooltip: MonoBehaviourCallbackHooks
         shown: 0
         isBuiltIn: 1
         script: {fileID: 0}
@@ -2980,9 +3024,31 @@ MonoBehaviour:
         isBuiltIn: 0
         script: {fileID: 11500000, guid: a83adf2443cd5ba48a0332c070178bbe, type: 3}
         hash: -1
+      - displayName: UILoadingScreen
+        name: BaseSource.UILoadingScreen, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+        content:
+          m_Text: UILoadingScreen
+          m_Image: {fileID: -8204150473280056172, guid: 0000000000000000d000000000000000, type: 0}
+          m_Tooltip: UILoadingScreen
+        shown: 0
+        isBuiltIn: 0
+        script: {fileID: 11500000, guid: 52e9b4d1e0a149e59e2b5d5c80e7cee3, type: 3}
+        hash: -1
     excludedComponents:
       name: Excluded
       components:
+      - displayName: MonoBehaviourCallbackHooks
+        name: MonoBehaviourCallbackHooks, Unity.ResourceManager, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        content:
+          m_Text: MonoBehaviourCallbackHooks
+          m_Image: {fileID: 0}
+          m_Tooltip: MonoBehaviourCallbackHooks
+        shown: 0
+        isBuiltIn: 1
+        script: {fileID: 0}
+        hash: -1
       - displayName: SpriteShapeGeometryCache
         name: SpriteShapeGeometryCache, Unity.2D.SpriteShape.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
@@ -4798,6 +4864,39 @@ MonoBehaviour:
         isBuiltIn: 1
         script: {fileID: 0}
         hash: -1
+      - displayName: DiagnosticEventCollector
+        name: UnityEngine.ResourceManagement.Diagnostics.DiagnosticEventCollector,
+          Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        content:
+          m_Text: DiagnosticEventCollector
+          m_Image: {fileID: 0}
+          m_Tooltip: DiagnosticEventCollector
+        shown: 0
+        isBuiltIn: 1
+        script: {fileID: 0}
+        hash: -1
+      - displayName: DiagnosticEventCollectorSingleton
+        name: UnityEngine.ResourceManagement.Diagnostics.DiagnosticEventCollectorSingleton,
+          Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        content:
+          m_Text: DiagnosticEventCollectorSingleton
+          m_Image: {fileID: 0}
+          m_Tooltip: DiagnosticEventCollectorSingleton
+        shown: 0
+        isBuiltIn: 1
+        script: {fileID: 0}
+        hash: -1
+      - displayName: DelayedActionManager
+        name: UnityEngine.ResourceManagement.Util.DelayedActionManager, Unity.ResourceManager,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        content:
+          m_Text: DelayedActionManager
+          m_Image: {fileID: 0}
+          m_Tooltip: DelayedActionManager
+        shown: 0
+        isBuiltIn: 1
+        script: {fileID: 0}
+        hash: -1
       - displayName: Rigidbody
         name: UnityEngine.Rigidbody, UnityEngine.PhysicsModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
@@ -5646,4 +5745,4 @@ MonoBehaviour:
         script: {fileID: 0}
         hash: -1
     unityVersion: 2022.3.20f1
-    unityCount: 242
+    unityCount: 246
