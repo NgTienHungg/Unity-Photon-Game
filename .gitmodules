@@ -1,0 +1,3 @@
+[submodule "HungNT-BaseSource"]
+	path = HungNT-BaseSource
+	url = https://gitlab.com/NgTienHungg/HungNT-BaseSource.git

@@ -17,6 +17,13 @@
       },
       "hash": "025efcbc5d3175aa1aaf5cb42a667cd7727457ae"
     },
+    "com.hungnt.packages": {
+      "version": "https://gitlab.com/NgTienHungg/HungNT-Packages.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b159fe001b9e40b5f482abdbafdd3efcefd69d1e"
+    },
     "com.unity.2d.animation": {
       "version": "9.1.0",
       "depth": 1,
