@@ -5,6 +5,7 @@ namespace Game
         public static class Scene
         {
             public const string Lobby = "Lobby";
+            public const string Game = "Game";
         }
     }
 }
