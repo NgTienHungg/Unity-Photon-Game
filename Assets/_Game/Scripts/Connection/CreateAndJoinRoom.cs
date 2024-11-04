@@ -1,17 +1,18 @@
 using Photon.Pun;
 using TMPro;
 using UnityEngine;
+using UnityEditor;
 
-namespace Game.Connection
+namespace Game
 {
     public class CreateAndJoinRoom : MonoBehaviourPunCallbacks
     {
-        [SerializeField] private TMP_InputField creatInput;
+        [SerializeField] private TMP_InputField createInput;
         [SerializeField] private TMP_InputField joinInput;
 
         public void CreateRoom()
         {
-            PhotonNetwork.CreateRoom(creatInput.text);
+            PhotonNetwork.CreateRoom(createInput.text);
         }
 
         public void JoinRoom()

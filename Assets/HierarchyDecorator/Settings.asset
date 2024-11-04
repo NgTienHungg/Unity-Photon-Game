@@ -3035,6 +3035,61 @@ MonoBehaviour:
         isBuiltIn: 0
         script: {fileID: 11500000, guid: 52e9b4d1e0a149e59e2b5d5c80e7cee3, type: 3}
         hash: -1
+      - displayName: TMP_InputField
+        name: TMPro.TMP_InputField, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+        content:
+          m_Text: TMP_InputField
+          m_Image: {fileID: 2800000, guid: 3ee40aa79cd242a5b53b0b0ca4f13f0f, type: 3}
+          m_Tooltip: TMP_InputField
+        shown: 0
+        isBuiltIn: 0
+        script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
+        hash: -1
+      - displayName: TextMeshProUGUI
+        name: TMPro.TextMeshProUGUI, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+        content:
+          m_Text: TextMeshProUGUI
+          m_Image: {fileID: 2800000, guid: 2fd6421f253b4ef1a19526541f9ffc0c, type: 3}
+          m_Tooltip: TextMeshProUGUI
+        shown: 0
+        isBuiltIn: 0
+        script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+        hash: -1
+      - displayName: CreateAndJoinRoom
+        name: Game.CreateAndJoinRoom, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+        content:
+          m_Text: CreateAndJoinRoom
+          m_Image: {fileID: -8204150473280056172, guid: 0000000000000000d000000000000000, type: 0}
+          m_Tooltip: CreateAndJoinRoom
+        shown: 0
+        isBuiltIn: 0
+        script: {fileID: 11500000, guid: 4bb762591e224fceb8624473c8f5ffed, type: 3}
+        hash: -1
+      - displayName: BaseInput
+        name: UnityEngine.EventSystems.BaseInput, UnityEngine.UI, Version=1.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        content:
+          m_Text: BaseInput
+          m_Image: {fileID: -8204150473280056172, guid: 0000000000000000d000000000000000, type: 0}
+          m_Tooltip: BaseInput
+        shown: 0
+        isBuiltIn: 0
+        script: {fileID: 11500000, guid: 1511ccae7919cfc46b603b9b337fdc94, type: 3}
+        hash: -1
+      - displayName: PlayerMovement
+        name: Game.PlayerMovement, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+        content:
+          m_Text: PlayerMovement
+          m_Image: {fileID: -8204150473280056172, guid: 0000000000000000d000000000000000, type: 0}
+          m_Tooltip: PlayerMovement
+        shown: 0
+        isBuiltIn: 0
+        script: {fileID: 11500000, guid: 07a86437449445f689f8166e5858df17, type: 3}
+        hash: -1
     excludedComponents:
       name: Excluded
       components:
